@@ -160,3 +160,8 @@ java Biblioteca
 Erro durante a introdução de dados
 O programa possui uma função para validar valores inteiros. Quando o utilizador introduz um valor que não é um número válido, o sistema solicita uma nova introdução.
 
+Link do repositório GitHub:
+
+https://github.com/JoseRefo/Biblioteca
+
+
